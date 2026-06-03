@@ -14,6 +14,13 @@ This changelog documents user-facing changes to the Guppy language excluding cha
 
 As of August 2025, The Guppy language is undergoing rapid development and is currently unstable. There is a Guppy v1.0 stability [milestone](https://github.com/quantinuum/guppylang/milestone/12) that is a work in progress and subject to change.
 
+## [0.21.16](https://github.com/Quantinuum/guppylang/compare/guppylang-v0.21.15...guppylang-v0.21.16) (2026-06-03)
+
+
+### Documentation
+
+* **0.21.*:** add parameters in error model snippet ([#1798](https://github.com/Quantinuum/guppylang/issues/1798)) ([32d5573](https://github.com/Quantinuum/guppylang/commit/32d5573db06edcee49d064135c2810d529fd4ab8))
+
 ## [0.21.15](https://github.com/Quantinuum/guppylang/compare/guppylang-v0.21.14...guppylang-v0.21.15) (2026-05-18)
 
 
